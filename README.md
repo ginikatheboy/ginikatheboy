@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Okeke Jehohanan Ginika, a cybersecurity enthusiast in Nigeria.
-- 👀 I’m interested in Cybersecurity roles. 
-- 🌱 I’m currently learning Python and Linux.
-- 💞️ I’m looking to collaborate on any cybersecurity project.
+- 👋 Hi, I’m Okeke Jehohanan Ginika, a Cloud/DevOps engineer in Nigeria.
+- 👀 I’m interested in Cloud/DevOps roles. 
+- 🌱 I’m currently learning Python and Linux & Cloud/DevOps.
+- 💞️ I’m looking to collaborate on any Cloud/DevOps project.
 - 📫 How to reach me: you can send me a dm, through this link https://twitter.com/gheenika_
 
 <!---
